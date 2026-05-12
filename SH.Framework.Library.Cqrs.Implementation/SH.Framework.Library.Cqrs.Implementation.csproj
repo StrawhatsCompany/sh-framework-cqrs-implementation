@@ -8,12 +8,11 @@
         <Authors>Muharrem Kaçkın</Authors>
         <Company>Strawhats Company</Company>
         <Description>A comprehensive implementation layer for the SH.Framework.Library.Cqrs package, providing abstract base classes and Result pattern implementation for CQRS operations. This package extends the core CQRS framework with practical base classes for requests, handlers, behaviors, and a standardized Result pattern for better error handling and response management.</Description>
-        <PackageProjectUrl>https://github.com/muharremkackin/sh-framework-cqrs-implementation</PackageProjectUrl>
+        <PackageProjectUrl>https://github.com/StrawhatsCompany/sh-framework-cqrs-implementation</PackageProjectUrl>
         <PackageLicenseExpression>MIT</PackageLicenseExpression>
         <PackageTags>asp.net;cqrs;implementation;result-pattern;clean-architecture</PackageTags>
-        <RepositoryUrl>https://github.com/muharremkackin/sh-framework-cqrs-implementation</RepositoryUrl>
+        <RepositoryUrl>https://github.com/StrawhatsCompany/sh-framework-cqrs-implementation</RepositoryUrl>
         <RepositoryType>git</RepositoryType>
-        <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
         <PackageReadmeFile>README.md</PackageReadmeFile>
         <IncludeSymbols>true</IncludeSymbols>
         <SymbolPackageFormat>snupkg</SymbolPackageFormat>
